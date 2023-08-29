@@ -11,7 +11,6 @@ After the release updates will become lest frequent due to me having school and 
 #Open source instructions
 If you want to make changes to this repostiory you can just run the changes by me first and I will apply them
 
-DO NOT MAKE SOFTWARE BREAKING CHANGES: due to my lack of time to fully wrk on the project If you make a change the breaks production it may take a while to fix so please try
-to double check and run your code on a separte file first.
+DO NOT MAKE SOFTWARE BREAKING CHANGES: due to my lack of time to fully work on the project If you make a change that breaks production it may take a while to fix so please tryto double check and run your code on a separte file first.
 
 Download link: Will be public on release
